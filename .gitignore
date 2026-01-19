@@ -1,0 +1,10 @@
+# Materials and certificates
+materials/
+certificate/
+
+# IPython Notebook
+*.ipynb_checkpoints
+
+# VS Code
+*.virtual_documents
+*.code-workspace
