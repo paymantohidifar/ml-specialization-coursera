@@ -8,3 +8,7 @@ certificate/
 # VS Code
 *.virtual_documents
 *.code-workspace
+
+# pixi
+.pixi/
+!.pixi/config.toml
